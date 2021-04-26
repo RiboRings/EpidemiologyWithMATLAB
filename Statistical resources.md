@@ -1,6 +1,6 @@
 # Statistical resources
 
-Statistics at the beginning of the pandemic in different regions of the world
+Statistics at the beginning of the pandemic in different regions of the world:
 - [unstats](https://unstats.un.org/unsd/ccsa/documents/covid19-report-ccsa.pdf)
 
 Mortality in Germany:
