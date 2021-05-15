@@ -3,8 +3,9 @@
 Statistics at the beginning of the pandemic in different regions of the world:
 - [unstats](https://unstats.un.org/unsd/ccsa/documents/covid19-report-ccsa.pdf)
 
-Mortality in Germany:
-- [destatis](https://www.destatis.de/EN/Themes/Cross-Section/Corona/Society/kontextinformationen-gesellschaft-society.html)
+Statistics on Germany:
+- [Statistiches Bundesamt](https://www.destatis.de/EN/Home/_node.html)
+- [mortality, destatis](https://www.destatis.de/EN/Themes/Cross-Section/Corona/Society/kontextinformationen-gesellschaft-society.html)
 
 Report of cases per state in Germany:
 - [RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html)
